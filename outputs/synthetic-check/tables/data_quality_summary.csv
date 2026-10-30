@@ -1,0 +1,2 @@
+source,rows_read,rows_retained,rows_excluded,source_label,sessions_total_before_limit,sessions_used,training_sessions,test_sessions
+in-memory development fixture,12,12,0,SYNTHETIC DEVELOPMENT DATA,5,5,4,1

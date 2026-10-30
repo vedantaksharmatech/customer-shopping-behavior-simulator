@@ -1,0 +1,4 @@
+outcome,observed_proportion,simulated_proportion,absolute_error
+PURCHASED,0.0,0.794,0.794
+EXITED,1.0,0.206,0.794
+STEP_LIMIT,0.0,0.0,0.0
